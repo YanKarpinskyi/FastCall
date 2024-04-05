@@ -1,0 +1,175 @@
+.logo_img{
+    width:75px;
+    height: 75px;
+}
+
+.headline{
+    text-align: center;
+}
+
+header{
+    background-color: rgb(59, 232, 245);
+}
+
+body{
+    background-color: rgba(22, 187, 173, 0.432);
+}
+
+menu{
+    text-align: center;
+    margin: 35px;
+}
+
+menu>li{
+    display: inline-block;
+    margin: 33px;  
+}
+
+.serv_card{
+    border: 7px;
+    background-color: rgb(204, 248, 8);
+    max-height: 400px;
+    max-width: 295px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 25px;
+}
+
+.product{
+    border: 7px;
+    background-color: rgb(204, 248, 8);
+    min-height: 550px;
+    min-width: 295px;
+    max-height: 570px;
+    max-width: 348px;
+    margin: 15px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.card_info{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+.card_info1{
+    margin-left: 15px;
+}
+
+.in_stock>p{
+    color: rgb(72, 255, 0);
+}
+
+.sim_img {
+    height: 150px;
+    width: 170px;
+    margin-left: 55px;
+    margin-top: 25px;
+}  
+
+.repair_img {
+    height: 150px;
+    width: 220px;
+    margin-left: 40px;
+    margin-top: 25px;
+} 
+
+.tarif_img {
+    height: 150px;
+    width: 145px;
+    margin-left: 82px;
+    margin-top: 25px;
+} 
+
+.transfer_img{
+    height: 140px;
+    width: 234px;
+    margin-left: 28px;
+    margin-top: 25px;
+}
+
+.the_first{
+    max-height: 400px;
+    max-width: 295px;
+    margin-top: 10px;
+    
+    margin-left: 28px;
+    margin-right: 28px;
+}
+
+.the_second{
+    max-height: 400px;
+    max-width: 295px;
+    margin-top: 43px;
+    margin-left: 28px;
+    margin-right: 28px;
+    margin-bottom: 12px;
+}
+
+.globex{
+    min-height: 300px;
+    min-width: 300px;    
+    max-height: 400px;    
+    margin-top: 50px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 11px;
+}
+
+.realme{
+    min-height: 300px;
+    min-width: 300px;    
+    max-height: 400px;
+    max-width: 295px;
+    margin-top: 55px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 20px;
+}
+
+.lamp{
+    max-height: 400px;
+    max-width: 295px;
+    margin-top: 68px;
+    margin-left: 28px;
+    margin-right: 28px;
+    margin-bottom: 34px;
+}
+
+.asus{
+    max-height: 400px;
+    max-width: 295px;
+    margin-top: 45px;
+    margin-bottom: 15px;
+    margin-left: 28px;
+    margin-right: 28px;    
+}
+
+.redmi2{ 
+    max-height: 300px;
+    max-width: 295px;
+    margin-top: 55px;
+    margin-left: 28px;
+    margin-right: 28px;
+    margin-bottom: 25px;
+}
+
+.oppo{
+    max-height: 300px;
+    max-width: 295px;
+    margin-top: 75px;
+    margin-left: 28px;
+    margin-right: 28px;
+    margin-bottom: 27px;
+}
+
+.motorola{
+    min-height: 300px;
+    min-width: 300px;    
+    max-height: 400px;
+    max-width: 295px;
+    margin-top: 52px;
+    margin-bottom: 12px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
