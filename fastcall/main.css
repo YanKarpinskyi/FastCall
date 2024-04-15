@@ -1,18 +1,10 @@
-.logo_img{
-    width:75px;
-    height: 75px;
-}
-
-.headline{
-    text-align: center;
+body{
+    margin: 0;
+    background-color: rgba(22, 187, 173, 0.432);
 }
 
 header{
     background-color: rgb(59, 232, 245);
-}
-
-body{
-    background-color: rgba(22, 187, 173, 0.432);
 }
 
 menu{
@@ -23,6 +15,15 @@ menu{
 menu>li{
     display: inline-block;
     margin: 33px;  
+}
+
+.logo_img{
+    width:75px;
+    height: 75px;
+}
+
+.headline{
+    text-align: center;
 }
 
 .serv_card{
